@@ -71,33 +71,34 @@ comme les discussions autour de l'injection de dépendance ou des ///front contr
 Nous allons uniquement mettre l'accent sur l'explication de la façon de faire de
 ce que vous connaissez déjà.
 
-The Application
----------------
+L'application
+-------------
 
-In addition to this guide, you'll find a sample application developed with
-all these best practices in mind. **The application is a simple blog engine**,
-because that will allow us to focus on the Symfony concepts and features without
-getting buried in difficult details.
+En complément de ce guide, vous trouverez un exemple d'application developpée 
+avec à l'esprit l'ensemble des bonnes pratiques. **L'application est un simple
+moteur de blog**, car cela permet de ne se concentrer que sur les concepts et 
+fontionnalités de Symfony sans s'embarrasser de détails complexes.
 
-Instead of developing the application step by step in this guide, you'll find
-selected snippets of code through the chapters. Please refer to the last chapter
-of this guide to find more details about this application and the instructions
-to install it.
+Au lieu de développer l'application étape par étape dans ce guide, vous trouverez
+une sélection d'extrait de code à travers les chapitres. Veuillez vous référer
+au dernier chapitre de ce guide pour trouver plus de détails au sujet de 
+l'application et des instructions pour l'installer.
 
-Don't Update Your Existing Applications
----------------------------------------
+Ne mettez pas à jour vos applications existantes
+------------------------------------------------
 
-After reading this handbook, some of you may be considering refactoring your
-existing Symfony applications. Our recommendation is sound and clear: **you
-should not refactor your existing applications to comply with these best
-practices**. The reasons for not doing it are various:
+Après avoir lu ce manuel, certains d'entre vous pourrait vouloir refactoriser
+leurs applications Symfony existantes. Notre recommandation est simple et 
+claire : **vous ne devriez pas refactoriser vos applications existante pour 
+suivre ces bonnes pratiques**. Les raisons de ne pas le faire sont nombreuses :
 
-* Your existing applications are not wrong, they just follow another set of
-  guidelines;
-* A full codebase refactorization is prone to introduce errors in your
-  applications;
-* The amount of work spent on this could be better dedicated to improving
-  your tests or adding features that provide real value to the end users.
+* Vos applications existantes ne sont pas mauvaises, elles suivent simplement 
+un ensemble d'autres lignes directrices;
+* Une refactorisation complète d'une base de code présente un risque d'introduire
+des erreurs dans vos applications;
+* La somme de travail nécessaire à cela pourrait être mieux dépenser à 
+améliorer vos tests ou à ajouter des fonctionnalités procurant une réelle
+plus value à vos utilisateurs finaux.
 
 .. _`Fabien Potencier`: https://connect.sensiolabs.com/profile/fabpot
 .. _`The Quick Tour`: http://symfony.com/doc/current/quick_tour/the_big_picture.html
