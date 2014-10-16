@@ -93,12 +93,12 @@ claire : **vous ne devriez pas refactoriser vos applications existante pour
 suivre ces bonnes pratiques**. Les raisons de ne pas le faire sont nombreuses :
 
 * Vos applications existantes ne sont pas mauvaises, elles suivent simplement 
-un ensemble d'autres lignes directrices;
+  un ensemble d'autres lignes directrices;
 * Une refactorisation complète d'une base de code présente un risque d'introduire
-des erreurs dans vos applications;
+  des erreurs dans vos applications;
 * La somme de travail nécessaire à cela pourrait être mieux dépenser à 
-améliorer vos tests ou à ajouter des fonctionnalités procurant une réelle
-plus value à vos utilisateurs finaux.
+  améliorer vos tests ou à ajouter des fonctionnalités procurant une réelle
+  plus value à vos utilisateurs finaux.
 
 .. _`Fabien Potencier`: https://connect.sensiolabs.com/profile/fabpot
 .. _`The Quick Tour`: http://symfony.com/doc/current/quick_tour/the_big_picture.html
