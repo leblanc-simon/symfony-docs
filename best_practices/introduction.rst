@@ -39,8 +39,8 @@ Ce guide est *particulièrement adapté* pour :
 Pour les autres cas, ce guide devrait être un bon **point de départ** que vous 
 pouvez ensuite **amender et adapter à vos besoins**:
 
-* Bundles partagés avec la comunauté Symfony;
-* Développeurs avancés ou équipe créant leurs propres standarts;
+* Bundles partagés avec la communauté Symfony;
+* Développeurs avancés ou équipe créant leurs propres standards;
 * Quelques applications complexe ayant des pré-requis fortement personnalisés;
 * Bundles devant être partagés en interne dans une entreprise.
 
@@ -74,10 +74,10 @@ ce que vous connaissez déjà.
 L'application
 -------------
 
-En complément de ce guide, vous trouverez un exemple d'application developpée 
+En complément de ce guide, vous trouverez un exemple d'application développée 
 avec à l'esprit l'ensemble des bonnes pratiques. **L'application est un simple
 moteur de blog**, car cela permet de ne se concentrer que sur les concepts et 
-fontionnalités de Symfony sans s'embarrasser de détails complexes.
+fonctionnalités de Symfony sans s'embarrasser de détails complexes.
 
 Au lieu de développer l'application étape par étape dans ce guide, vous trouverez
 une sélection d'extrait de code à travers les chapitres. Veuillez vous référer
@@ -98,7 +98,7 @@ suivre ces bonnes pratiques**. Les raisons de ne pas le faire sont nombreuses :
   des erreurs dans vos applications;
 * La somme de travail nécessaire à cela pourrait être mieux dépenser à 
   améliorer vos tests ou à ajouter des fonctionnalités procurant une réelle
-  plus value à vos utilisateurs finaux.
+  plus-value à vos utilisateurs finaux.
 
 .. _`Fabien Potencier`: https://connect.sensiolabs.com/profile/fabpot
 .. _`The Quick Tour`: http://symfony.com/doc/current/quick_tour/the_big_picture.html
